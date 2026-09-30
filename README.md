@@ -11,6 +11,7 @@ We research network infrastructure stress testing: L4/L7 methods, CDN & WAF vali
 | [ddos-pressure-test-guide](https://github.com/zerodawn-sec/ddos-pressure-test-guide) | DDoS压力测试方法与指标解读 |
 | [ddos-protection-bypass-guide](https://github.com/zerodawn-sec/ddos-protection-bypass-guide) | CDN源站发现、Cloudflare验证绕过、JA3指纹 |
 | [network-stress-testing-tools](https://github.com/zerodawn-sec/network-stress-testing-tools) | 压力测试工具对比与选型 |
+| [ip-stresser-methods-guide](https://github.com/zerodawn-sec/ip-stresser-methods-guide) | IP Stresser & Booter Methods (EN) |
 
 ## 🔗 相关站点 / Related Sites
 
